@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <rect width="1200" height="340" rx="36" fill="#dceeff"/>
+  <path d="M0 246Q190 184 408 260T796 235Q1035 174 1200 242V340H0Z" fill="#f8fbff"/>
+  <g fill="#fff"><circle cx="83" cy="65" r="8"/><circle cx="146" cy="135" r="6"/><circle cx="959" cy="58" r="10"/><circle cx="1111" cy="100" r="7"/><circle cx="815" cy="112" r="5"/></g>
+  <g transform="translate(470 30)">
+    <path d="M38 181Q19 145 59 108Q94 83 121 63Q172 29 202 59Q228 85 212 129Q197 158 160 176Q141 185 111 206Q68 234 38 181Z" fill="#a45a52"/>
+    <path d="M73 166Q57 147 86 124Q116 102 139 81Q175 55 191 70Q205 91 187 116Q167 141 129 162Q93 187 73 166Z" fill="#f4bf77"/>
+    <circle cx="113" cy="133" r="4" fill="#402c31"/><circle cx="140" cy="115" r="4" fill="#402c31"/>
+    <path d="M119 145q15 7 24-11" fill="none" stroke="#402c31" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="301" font-family="sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#204a8d">고구마 · 함께 살펴봐요</text>
+</svg>

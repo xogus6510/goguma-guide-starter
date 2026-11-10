@@ -1,0 +1,12 @@
+{
+  "name": "goguma-guide-starter",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "setup": "node setup.mjs",
+    "rotate": "node setup.mjs --rotate",
+    "start": "node server.mjs",
+    "test": "node --test"
+  }
+}

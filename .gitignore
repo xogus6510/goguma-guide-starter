@@ -1,0 +1,10 @@
+/site.local.json
+/site.local.json.*
+/private-media/
+/.env*
+/node_modules/
+*.log
+*.zip
+*.sql
+*.csv
+*.xlsx

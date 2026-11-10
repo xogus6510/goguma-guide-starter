@@ -1,0 +1,19 @@
+:root{color-scheme:light;font-family:system-ui,"Malgun Gothic",sans-serif;color:#182541;background:#f1f6ff}
+*{box-sizing:border-box}
+body{margin:0}main{max-width:710px;margin:auto;padding:20px 14px 48px}
+.hero{border:1px solid #cbdaf2;border-radius:22px;background:linear-gradient(145deg,#fff,#dfedff);padding:24px}
+.badge{font-size:.84rem;font-weight:750;color:#254786;letter-spacing:.06em}
+h1,h2,h3,p{margin:0}h1{font-size:clamp(1.6rem,5vw,2.35rem);margin:6px 0 10px}
+p{line-height:1.65;white-space:pre-wrap;overflow-wrap:anywhere}
+.tabs{display:flex;flex-wrap:wrap;gap:8px;position:sticky;top:0;padding:12px 0;background:#f1f6ff}
+.tabs button{flex:1 1 125px;font-weight:750;overflow-wrap:anywhere}
+button,.button{font:inherit;border:1px solid #b8cae7;border-radius:10px;padding:10px 14px;min-height:44px;background:#fff;color:#214076;cursor:pointer}
+.tabs [aria-selected=true]{background:#204a8d;border-color:#204a8d;color:#fff}
+:focus-visible{outline:3px solid #477aee;outline-offset:2px}
+.product-head{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin:8px 0 12px}
+.card{border:1px solid #d9e3f4;border-radius:14px;background:#fff;margin:12px 0;padding:16px}
+.card p{margin:8px 0}.card p:empty{display:none}
+.button{display:inline-flex;align-items:center;text-decoration:none}
+figure{margin:14px 0 0}img{display:block;max-width:100%;max-height:510px;object-fit:contain;margin:auto;border-radius:8px}figcaption{margin:6px 0 0}
+textarea{width:100%;min-height:92px;margin-top:8px}
+#status{margin-top:12px;color:#28518f}[hidden]{display:none!important}
