@@ -4,7 +4,7 @@
 
 ```text
 https://github.com/xogus6510/goguma-guide-starter
-이 사이트처럼 고구마 안내 사이트를 내 PC에서 알아서 만들어줘.
+이 사이트처럼 만들어줘.
 ```
 
 ## 사진과 안내를 보내는 양식
